@@ -1,0 +1,56 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset Bundles
+/[Aa]ssets/[Aa]sset[Bb]undles/
+
+# Crash Reports
+/[Cc]rash[Rr]eports/
+
+# Auto-generated VS/MD solution and project files
+*.csproj
+/[Aa]ssets/*.unityproj
+/[Aa]ssets/*.sln
+/[Aa]ssets/*.suo
+/[Aa]ssets/*.tmp
+/[Aa]ssets/*.user
+/[Aa]ssets/*.userprefs
+/[Aa]ssets/*.pidb
+/[Aa]ssets/*.booproj
+/[Aa]ssets/*.svd
+/[Aa]ssets/[Aa]ssets*.map
+/[Aa]ssets/[Aa]ssets*.xml
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+/[Bb]uild/
+
+# WebGL specific folders
+/[Ww]eb[Gg][Ll]Templates/
+
+# UCB/Collaborate generated files
+/[Cc]ollab/
+
+# Unity Cloud Build
+/[Uu]nity[Ll]og[Hh]istory/
+
+# Ignore crash reports from standalone players
+*.crash
+
+# Ignore all .meta files (optional, but recommended)
+*.meta
+
+# Ignore Asset meta data files
+/[Aa]ssets/Plugins/Editor/RemoteSettings/RemoteSettings.meta
+
+# Ignore custom project settings
+ProjectSettings/
+/Assets/Models/Slim Shooter Pack
